@@ -1,0 +1,32 @@
+{
+  "name": "@participator/how-to-npm",
+  "version": "1.0.0",
+  "description": "nodeschool.io how-to-npm excercises",
+  "main": "index.js",
+  "dependencies": {
+    "how-to-npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js",
+    "tester": "node how-to-npm run",
+    "learn": "node how-to-npm",
+    "print": "node how-to-npm print",
+    "verify": "node how-to-npm verify"
+  },
+  "author": "participator",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/participator/how-to-npm.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/participator/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/participator/how-to-npm#readme"
+}
